@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 test master changes
-ERCAN GURSOY
+=======
+fdafdsfdafdfas
+>>>>>>> new_feature
+
